@@ -8,7 +8,7 @@ import furhatos.flow.kotlin.DialogHistory
 import furhatos.flow.kotlin.Furhat
 
 /** API Key to GPT3 language model. Get access to the API and generate your key from: https://openai.com/api/ **/
-val serviceKey = "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"
+val serviceKey = ""
 
 val service = OpenAiService("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")
 
